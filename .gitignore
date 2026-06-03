@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.idea/
+.vscode/
+
+# Dataset
+Data/
+
+# System files
+.DS_Store
+Thumbs.db
